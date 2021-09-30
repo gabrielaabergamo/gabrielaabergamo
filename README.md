@@ -1,5 +1,5 @@
 ### Hello!♡°~♪ 
-• I'm Gabriela, a 22yo computer science student based in São Paulo, Brasil &#x1f490; \
+• I'm Gabriela, a 22yo computer science student @ UFSCar based in São Paulo, Brasil &#x1f490; \
 • Currently studying about web dev (html, css, js & react)
 
 <img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/mew.gif" width="50px">
