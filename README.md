@@ -1,9 +1,14 @@
-### Hello!♡°~♪ <img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/mew.gif" width="50px">
+### Hello!♡°~♪ 
+• I'm Gabriela, a 22yo computer science student based in São Paulo, Brasil &#x1f490; \
+• Currently studying about web dev (html, css, js & react)
+
+<img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/mew.gif" width="50px">
 
 ### ~git stats☆
 <a href="https://github.com/gabrielaabergamo/gabrielaabergamo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaabergamo&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaabergamo&tex&title_color=f8f9fa&text_color=adb5bd&icon_color=2bbc8a&bg_color=212529" />
 </a>
+
 <!--
 **gabrielaabergamo/gabrielaabergamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
