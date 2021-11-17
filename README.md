@@ -6,7 +6,7 @@
 
 ### ~git stats☆
 <a href="https://github.com/gabrielaabergamo/gabrielaabergamo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaabergamo&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaabergamo&layout=compact&theme=material-palenight" />
 </a>
 
 <!--
