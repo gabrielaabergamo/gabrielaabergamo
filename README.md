@@ -1,6 +1,6 @@
 ### Hello!♡°~♪ 
 • I'm Gabriela, a 22yo computer science student @ UFSCar based in São Paulo, Brasil &#x1f490; \
-• Currently studying go & node.js
+• Currently studying vue.js
 
 <img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/mew.gif" width="50px">
 
