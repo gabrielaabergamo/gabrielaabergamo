@@ -1,8 +1,9 @@
 ### Hello!♡°~♪ 
 • I'm Gabriela, a 23yo computer science student @ UFSCar based in São Paulo, Brasil &#x1f490; \
+• Software Engineer Intern @ OLX Brasil \
 • Currently studying vue.js
 
-<img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/mew.gif" width="50px">
+<img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/mew.gif" width="50px" height="70px">
 
 ### ~git stats☆
 <a href="https://github.com/gabrielaabergamo/gabrielaabergamo">
