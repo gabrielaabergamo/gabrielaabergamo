@@ -1,5 +1,5 @@
 ### Hello!♡°~♪ 
-• I'm Gabriela, a 23yo computer science student @ UFSCar based in São Paulo, Brasil &#x1f490; \
+• I'm Gabriela, a 24yo computer science student @ UFSCar based in São Paulo, Brasil &#x1f490; \
 • Software Engineer Intern @ OLX Brasil \
 • Currently studying vue.js
 
