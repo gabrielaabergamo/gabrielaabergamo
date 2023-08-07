@@ -3,11 +3,11 @@
 • Junior Software Engineer @ OLX Brasil \
 • Currently studying vue.js & other front-end technologies
 
-<img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/mew.gif" width="50px" height="70px">
+<img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/ghosts.gif" width="350px" height="220px">
 
 ### ~git stats☆
 <a href="https://github.com/gabrielaabergamo/gabrielaabergamo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaabergamo&layout=compact&theme=city_lights&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaabergamo&layout=compact&theme=jolly&langs_count=10" />
 </a>
 
 <!--
