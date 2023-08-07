@@ -1,4 +1,4 @@
-### Hello!♡°~♪ 
+### ~hello☆
 • I'm a 24yo computer science student @ UFSCar based in São Paulo, Brasil &#x1f490; \
 • Junior Software Engineer @ OLX Brasil \
 • Currently studying vue.js & other front-end technologies
