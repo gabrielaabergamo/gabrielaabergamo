@@ -1,5 +1,5 @@
 ### ~hello☆
-• I'm a 24yo computer science student @ UFSCar based in São Paulo, Brasil :wilted_flower:\
+• I'm a 25yo computer science student @ UFSCar based in São Paulo, Brasil :wilted_flower:\
 • Junior Software Engineer @ OLX Brasil \
 • Currently studying vue.js & other front-end technologies
 
