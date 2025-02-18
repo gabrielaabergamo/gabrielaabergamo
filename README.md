@@ -1,7 +1,7 @@
 ### ~hello☆
-• I'm a 25yo computer science student @ UFSCar based in São Paulo, Brasil :wilted_flower:\
-• Junior Software Engineer @ OLX Brasil \
-• Currently studying vue.js & other front-end technologies
+• Bachelor in Computer Science (UFSCar)\
+• Based in São Paulo, Brasil :wilted_flower:\
+• Front-end Software Engineer @ Grupo OLX
 
 <!--
 <img src="https://raw.githubusercontent.com/gabrielaabergamo/gabrielaabergamo/main/ghosts.gif" width="350px" height="220px">
